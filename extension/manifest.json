@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "No Window Cascading",
   "version": "1.0.0",
-  "description": "Mitigate new chrome window cascading",
+  "description": "Mitigate chrome window cascading",
 
   "icons": {
     "16": "icons/icon16.png",
